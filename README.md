@@ -4,7 +4,7 @@ Engage in an epic intergalactic battle with Space War, a thrilling space combat 
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/space-war/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/space-war/) 🕹️
 
 ## About the Game
 
