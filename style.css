@@ -1,0 +1,58 @@
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    color: #fff;
+}
+#gm {
+    height: 100vh;
+    width: 100vw;
+    background: rgba(0, 0, 0, 0.1);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    flex-direction: column;
+}
+.score {
+    text-transform: uppercase;
+    font-size: 1.1em;
+    margin: 12px 0;
+}
+
+#load {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-size: 10px;
+}
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
